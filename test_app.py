@@ -6,5 +6,5 @@ def test_add():
     assert add(5,7) == 12
 
 def test_minus():
-    assert minus(14,7) == 7
+    assert minus(37,7) == 30
 
