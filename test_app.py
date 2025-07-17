@@ -5,6 +5,6 @@ from app import add
 def test_add():
     assert add(5,7) == 12
 
-def test_divide():
-    assert add(14,7) == 2
+def test_minus():
+    assert minus(14,7) == 7
 
