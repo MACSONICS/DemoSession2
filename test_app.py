@@ -1,6 +1,6 @@
 import pytest
 
-from app import add, minus
+from app import add, minus, divide
 
 def test_add():
     assert add(5,7) == 12
