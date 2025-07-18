@@ -8,3 +8,5 @@ def test_add():
 def test_minus():
     assert minus(37,7) == 30
 
+def test_divide():
+    assert minus(49,7) == 7
